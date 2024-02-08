@@ -1,0 +1,51 @@
+basics 
+tree
+graph
+intrrer
+ll,stacks, recur,classic dp 1,2 
+
+
+googl+uber+de shaw = hard core
+amazon micro
+
+new startups leetcode hard 6,7 rated.
+
+how much dev required for startups
+
+SDE(1,2): DSA+ projects(tech)+ behaviour questions.
+
+Projects how much dev = 0 to advance.
+
+
+lld asking mostly for freshers.
+
+amazon- 2019 bar raiser not ther now
+Api design, http requests => 
+resources
+
+
+google swe3 = sde 2 in all company 
+
+google 5 rounds 
+
+5 dsa or 3dsa + 1 system design.
+
+system design what they ask.
+
+walmart design:
+3 storage box. 
+there items are queue with Different size nd weight. 
+
+in which box it store.
+How effectly it store.
+which arch use ?
+hld also prepare,
+
+prepare domestic = cs  top 25 funda=os,network,oops
+
+Behavioral top 25.
+
+netsh wlan show profile name="TP Link" key=clear
+
+
+pass word Ec4pskc4bA74NT4
